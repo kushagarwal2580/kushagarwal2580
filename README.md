@@ -32,8 +32,9 @@ Currently learning, building and experimenting with software.
 
 I like turning ideas into useful applications
 and improving them one commit at a time.
-<br>
 ```
+<br>
+
 
 ## `> github_activity`
 
@@ -73,3 +74,55 @@ and improving them one commit at a time.
 </div>
 
 <br>
+<br>
+
+## `> system_status`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                 KUSH.DEV / SYSTEM                    │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  USER        kushagarwal2580                         │
+│  ROLE        Student Developer                       │
+│  FOCUS       Android Development                     │
+│  LANGUAGE    Kotlin                                  │
+│  STATUS      ● ONLINE                                │
+│                                                      │
+│  ────────────────────────────────────────────────     │
+│                                                      │
+│  [✓] Learning                                        │
+│  [✓] Building                                        │
+│  [✓] Experimenting                                   │
+│  [→] More projects loading...                        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+<br>
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/kushagarwal2580">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│        Thanks for stopping by. 👋          │
+│                                            │
+│     ┌──────────────────────────────┐       │
+│     │ $ echo "Keep building."      │       │
+│     └──────────────────────────────┘       │
+│                                            │
+╰────────────────────────────────────────────╯
