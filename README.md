@@ -59,11 +59,9 @@ and improving them one commit at a time.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagarwal2580&bg_color=0d1117&color=c9d1d9&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagarwal2580&theme=github_dark" width="95%" alt="GitHub contribution summary"/>
 
 </div>
-
-<br>
 
 ## `> contribution_snake`
 
