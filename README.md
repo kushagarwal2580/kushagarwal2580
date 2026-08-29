@@ -59,7 +59,9 @@ and improving them one commit at a time.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagarwal2580&theme=github_dark" width="95%" alt="GitHub contribution summary"/>
+**Contribution activity lives directly on the GitHub profile above.**
+
+`████░░░░░░░░░░░░░░░░`
 
 </div>
 
