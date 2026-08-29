@@ -40,21 +40,20 @@ and improving them one commit at a time.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kushagarwal2580&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&include_all_commits=true&count_private=false" height="180" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagarwal2580&theme=github_dark" width="95%" alt="GitHub profile activity"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagarwal2580&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6" height="180" alt="Top languages"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushagarwal2580&theme=github_dark" height="180" alt="Repositories per language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushagarwal2580&theme=github_dark" height="180" alt="Most committed languages"/>
 
 </div>
-
-<br>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=kushagarwal2580&theme=dark&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" alt="GitHub streak"/>
 
 </div>
-
-<br>
 
 ## `> contribution_matrix`
 
