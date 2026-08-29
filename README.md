@@ -69,7 +69,7 @@ and improving them one commit at a time.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kushagarwal2580/kushagarwal2580/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
+🐍 **Contribution snake is being generated...**
 
 </div>
 
