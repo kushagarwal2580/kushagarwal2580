@@ -173,5 +173,5 @@ and improving them one commit at a time.
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:161616,100:0f0f0f&height=120&section=footer&animation=fadeIn" alt="Animated footer"/>
-
+ 
 </div>
