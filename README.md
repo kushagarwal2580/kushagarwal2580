@@ -23,7 +23,7 @@
 
 ## `> whoami`
 
-```text
+text
 Kush Agarwal
 
 Student Developer
