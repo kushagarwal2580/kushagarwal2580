@@ -23,7 +23,7 @@
 
 ## `> whoami`
 
-text
+```text
 Kush Agarwal
 
 Student Developer
@@ -33,6 +33,7 @@ Currently learning, building and experimenting with software.
 I like turning ideas into useful applications
 and improving them one commit at a time.
 <br>
+```
 
 ## `> github_activity`
 
